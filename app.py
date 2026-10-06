@@ -1,6 +1,4 @@
 """
-app.py — OWNED BY: Person 8 (App Orchestration) — RUN THIS FILE
-==================================================================
 
     streamlit run app.py
 
