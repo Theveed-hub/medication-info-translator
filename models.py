@@ -1,5 +1,5 @@
 """
-models.py — OWNED BY: Person 1 (Domain Model & Input Validation)
+models.py — OWNED BY: Sadiq (Domain Model & Input Validation)
 ==================================================================
 
 The custom exception hierarchy plus the `Medication` dataclass:
