@@ -1,5 +1,5 @@
 """
-ai_translator.py — OWNED BY: Person 4 (AI Integration)
+ai_translator.py — OWNED BY: Sadiq (AI Integration)
 =======================================================
 
 AITranslator calls the Gemini API to rewrite dense FDA label text in
