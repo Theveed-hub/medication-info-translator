@@ -1,6 +1,4 @@
-"""
-========================================================
-
+""
 The full search flow end-to-end: the "did you mean" dropdown, running
 a search, calling the FDA client (Person 2), calling Gemini to simplify each label
 section (Person 4's AITranslator), and saving the result to history
